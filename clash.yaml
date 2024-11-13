@@ -75,7 +75,6 @@ proxies:
 - {name: 🏁RELAY-172.67.128.110-073, server: kampong.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, skip-cert-verify: true, network: ws, ws-path: linkvws, tls: true, ws-headers: {Host: kampong.org}}
 - {name: 🇰🇷KR-152.70.249.186-074, server: ent1.imyourdaddy.top, port: 20980, type: trojan, password: 64f33df2-4f9d-4cf3-bb69-b82b08cf149a, skip-cert-verify: true}
 - {name: 🏁RELAY-172.64.167.44-075, server: 172.64.167.44, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip3.6929198.xyz}}
-- {name: 🇨🇳CN-120.241.45.50-076, server: 120.241.45.50, port: 15013, type: ss, cipher: aes-256-gcm, password: Z4X7VYXFPCFSSWXP}
 - {name: 🏁RELAY-104.16.67.38-077, server: 104.16.67.38, port: 2052, type: vmess, uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /afrhms07.xfixedfloat.cfd/linkws, tls: false, ws-headers: {Host: 7hss-butterfly-d4c3.fijetem432.workers.dev}}
 - {name: 🏁RELAY-172.67.128.179-078, server: 172.67.128.179, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, skip-cert-verify: true, network: ws, ws-path: linkvws, tls: true, ws-headers: {Host: c.jannah.homes}}
 - {name: 🏁RELAY-162.159.140.91-079, server: 162.159.140.91, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip2.6016725.xyz}}
@@ -139,9 +138,7 @@ proxies:
 - {name: 🏁RELAY-104.21.238.201-138, server: 104.21.238.201, port: 8443, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: true, ws-headers: {Host: http1.9290254.xyz}}
 - {name: 🏁RELAY-104.21.238.202-139, server: 104.21.238.202, port: 8443, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: true, ws-headers: {Host: http1.9290254.xyz}}
 - {name: 🏁RELAY-104.21.238.203-140, server: 104.21.238.203, port: 8443, type: vmess, uuid: 9201ffaa-6ca3-4f57-8b1f-266a2f390e43, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: true, ws-headers: {Host: http1.9290254.xyz}}
-- {name: 🇨🇳CN-120.241.45.50-141, server: 120.241.45.50, port: 15013, type: ss, cipher: aes-256-gcm, password: Z4X7VYXFPCFSSWXP}
 - {name: 🇨🇳CN-183.236.51.23-142, server: 183.236.51.23, port: 56601, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 183.236.51.23}}
-- {name: 🇨🇳CN-120.241.45.50-143, server: 120.241.45.50, port: 15002, type: ss, cipher: aes-256-gcm, password: 99NH00E1KE8IF6WO}
 - {name: 🇨🇳CN-120.232.153.27-144, server: 120.232.153.27, port: 58002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 120.232.153.27}}
 - {name: 🇸🇬SG-143.92.42.65-145, server: 143.92.42.65, port: 2902, type: vmess, uuid: 640c1077-d10b-4225-a9fb-d3e9c3ce7a00, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 143.92.42.65}}
 - {name: 🇨🇳CN-183.232.229.165-146, server: 183.232.229.165, port: 11001, type: ss, cipher: chacha20-ietf-poly1305, password: 047a730c-1f84-4aef-8e32-6c244ee5b92b}
@@ -159,9 +156,7 @@ proxies:
 - {name: 🇸🇬SG-47.129.50.131-158, server: 47.129.50.131, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🇰🇷KR-43.201.254.211-159, server: 43.201.254.211, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🇯🇵JP-43.207.113.77-160, server: 43.207.113.77, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇨🇳CN-120.241.45.50-161, server: 120.241.45.50, port: 15013, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206WjRYN1ZZWEZQQ0ZTU1dYUA}
 - {name: 🇨🇳CN-183.236.51.23-162, server: 183.236.51.23, port: 56601, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 183.236.51.23}}
-- {name: 🇨🇳CN-120.241.45.50-163, server: 120.241.45.50, port: 15002, type: ss, cipher: ss, password: //YWVzLTI1Ni1nY206OTlOSDAwRTFLRThJRjZXTw}
 - {name: 🇨🇳CN-120.232.153.27-164, server: 120.232.153.27, port: 58002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 120.232.153.27}}
 - {name: 🇸🇬SG-143.92.42.65-165, server: 143.92.42.65, port: 2902, type: vmess, uuid: 640c1077-d10b-4225-a9fb-d3e9c3ce7a00, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 143.92.42.65}}
 - {name: 🇨🇳CN-183.232.229.165-166, server: 183.232.229.165, port: 11001, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDdhNzMwYy0xZjg0LTRhZWYtOGUzMi02YzI0NGVlNWI5MmI}
